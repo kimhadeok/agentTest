@@ -1,6 +1,6 @@
 # agentTest
 
-<a href="https://raw.githubusercontent.com/ai-edu-pro/agentTest/refs/heads/main/get-openai-api-key.md"> OpenAI 키 발급받기 </a>
+OpenAI 키 발급받기 
 
 파이썬 가상환경 설정
 
